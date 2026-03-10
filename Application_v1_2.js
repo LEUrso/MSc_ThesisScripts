@@ -4,7 +4,7 @@
  * with table/image export products based on Psudo_Export note.   
  * No visualization layers are added
  * preprocesses, mosaics, applies RF, exports 
- * masks are hard coded for tuning 
+ * masks are hard coded for tuning  
  * this is a development version, comments are limited
  *  ================================ ****/
 
