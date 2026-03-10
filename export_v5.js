@@ -1,6 +1,6 @@
 /**** ================================
  *  EXPORT v5, adds scene-count limiting per window from test_medoids_v3.
- *  Parent script = export_v4.
+ *  Parent script = export_v4. 
  *
  *  V5 change: before any pixel preprocessing, each raw scene in a mosaic
  *  window is scored by its footprint intersection area with the AOI (a cheap
